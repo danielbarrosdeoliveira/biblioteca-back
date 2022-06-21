@@ -19,7 +19,6 @@ Esse projeto foi criado com intuito de praticar em grupo, com pessoas da comunid
 ## 🧑‍💻 Pessoas envolvidas no Projeto
 
 - [Daniel Oliveira](https://github.com/danielbarrosdeoliveira)
-- [Hercules Santos](https://github.com/herculesdevbr)
 
 ## 🚀 Como executar
 
